@@ -38,7 +38,7 @@
         "postcss-flexbugs-fixes": "5.0.2",
         "sass": "1.53.0",
         "vinyl-buffer": "1.0.1",
-        "yargs": "17.5.1",
+        "yargs": "17.6.0",
         "csfg-module-fsa": "file:./static/js/modules/fsa/",
         "csfg-interactive-algorithm-timer": "file:./static/interactives/algorithm-timer/",
         "csfg-interactive-big-number-calculator": "file:./static/interactives/big-number-calculator/",
